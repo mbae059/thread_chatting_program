@@ -12,3 +12,8 @@ To test if the program can have multiple users, run the program using different 
 
 ![image](https://github.com/user-attachments/assets/846a6a01-6f87-4b25-b5e2-3fb2314cea42)
 
+The program is asynchronous. It updates only if you type something.
+
+To make it synchronous, update the code every 0.01 seconds or so.
+
+This program is asynchronous due to the requirements.
