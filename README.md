@@ -14,6 +14,7 @@ To test if the program can have multiple users, run the program using different 
 
 The program is asynchronous. It updates only if you type something.
 
-To make it synchronous, update the code every 0.01 seconds or so.
+To make it synchronous, updating the code every 0.01 seconds or so would be the simplest. 
+
 
 This program is asynchronous due to the requirements.
