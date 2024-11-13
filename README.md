@@ -12,7 +12,7 @@ To test if the program can have multiple users, run the program using different 
 
 ![image](https://github.com/user-attachments/assets/846a6a01-6f87-4b25-b5e2-3fb2314cea42)
 
-The program has one reading, can have up to 3 writers.
+The program could have multiple readers, have up to 3 writers.
 
 Reading is open for everyone.
 
