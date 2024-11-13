@@ -1,5 +1,5 @@
 # thread_chatting_program
-Chatting Program that uses pthread, shared memory. Can hold up to 3 users.
+Chatting Program that uses pthread, shared memory. Can hold up to 3 writers. Number of readers are irrelevant
 
 
 Download all the files.
